@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;    
+    overflow-x: hidden;
+    height: 100%;
+    background-color: whitesmoke !important;
+}
+
+
+
+.main{
+    margin-top: 90px;  
+}
+
+
+.section-main{
+    border-radius: .25rem;
+    border: 1px solid rgb(184, 192, 211) !important;
+    height: 500px;
+}
+
+.btn-black{
+    width: 100% !important;
+    background-color: rgb(116, 155, 187) !important;
+    margin-top: 30px !important;
+}
+
+.login-form{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid rgb(167, 167, 212);
+    padding: 20px;
+    font-weight: 600;
+    border-radius: 12px;
+    
+}
+
+.form-group input{
+    border: none;
+    border-bottom: 1px solid rgb(41, 41, 44);    
+    padding: 5px;
+    border-radius: 0 !important;
+}
+
+.form-control:focus{
+    outline:  none !important;
+    box-shadow: none !important;
+}
+.create{
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.pb-modalreglog-form-reg{
+    text-align: center;
+}
